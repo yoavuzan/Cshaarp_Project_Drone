@@ -1,0 +1,12 @@
+C:\Users\becky\Source\Repos\yoav uzan\dotNet5782_0723_3849\DalApi\bin\Debug\net5.0\DalFacade.deps.json
+C:\Users\becky\Source\Repos\yoav uzan\dotNet5782_0723_3849\DalApi\bin\Debug\net5.0\DalFacade.dll
+C:\Users\becky\Source\Repos\yoav uzan\dotNet5782_0723_3849\DalApi\bin\Debug\net5.0\ref\DalFacade.dll
+C:\Users\becky\Source\Repos\yoav uzan\dotNet5782_0723_3849\DalApi\bin\Debug\net5.0\DalFacade.pdb
+C:\Users\becky\Source\Repos\yoav uzan\dotNet5782_0723_3849\DalApi\obj\Debug\net5.0\DalFacade.csproj.AssemblyReference.cache
+C:\Users\becky\Source\Repos\yoav uzan\dotNet5782_0723_3849\DalApi\obj\Debug\net5.0\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\becky\Source\Repos\yoav uzan\dotNet5782_0723_3849\DalApi\obj\Debug\net5.0\DalFacade.AssemblyInfoInputs.cache
+C:\Users\becky\Source\Repos\yoav uzan\dotNet5782_0723_3849\DalApi\obj\Debug\net5.0\DalFacade.AssemblyInfo.cs
+C:\Users\becky\Source\Repos\yoav uzan\dotNet5782_0723_3849\DalApi\obj\Debug\net5.0\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\becky\Source\Repos\yoav uzan\dotNet5782_0723_3849\DalApi\obj\Debug\net5.0\DalFacade.dll
+C:\Users\becky\Source\Repos\yoav uzan\dotNet5782_0723_3849\DalApi\obj\Debug\net5.0\ref\DalFacade.dll
+C:\Users\becky\Source\Repos\yoav uzan\dotNet5782_0723_3849\DalApi\obj\Debug\net5.0\DalFacade.pdb
